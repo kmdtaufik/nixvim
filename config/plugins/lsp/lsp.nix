@@ -23,7 +23,7 @@
         nixd = {
           enable = true;
           settings = {
-            nixpkgs.expr = { };
+            nixpkgs.expr = "import <nixpkgs> {}";
           };
         };
         ts_ls = {
