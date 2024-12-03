@@ -5,10 +5,10 @@
     settings = {
       indent.enable = true;
       highlight.enable = true;
+      auto_install = true;
     };
     folding = false;
     nixvimInjections = true;
-    grammarPackages = pkgs.vimPlugins.nvim-treesitter.allGrammars;
   };
 
   plugins.treesitter-textobjects = {
