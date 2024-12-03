@@ -3,6 +3,7 @@
 This repository contains my personal configuration NixVim, a Neovim configuration managed with Nix.
 
 ![Neovim](./.github/assets/neovim.jpg)
+![Demo_Pkgs](./.github/assets/pkgs_demo.jpg)
 
 ## How to use
 
